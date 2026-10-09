@@ -1,0 +1,13 @@
+{
+  "name": "gameworld-website",
+  "version": "1.0.0",
+  "description": "GAMEWORLD - Redefine Gaming",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

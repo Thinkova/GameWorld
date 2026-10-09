@@ -245,6 +245,8 @@ body {
   font-family: robert;
   font-weight: 700;
   line-height: 120%;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
 }
 
 .menu__btn {
@@ -888,7 +890,7 @@ body {
     column-gap: 1.875rem;
   }
   .menu__logo {
-    font-size: 1.6875rem;
+    font-size: 1.5625rem;
   }
   .menu__btn {
     padding-top: 0.75rem;
@@ -1063,7 +1065,7 @@ body {
     column-gap: clamp(0.9375rem, 0.6766304348rem + 1.3043478261vw, 1.875rem);
   }
   .menu__logo {
-    font-size: clamp(1.125rem, 0.9684782609rem + 0.7826086957vw, 1.6875rem);
+    font-size: clamp(1.05rem, 0.92rem + 0.7vw, 1.5625rem);
   }
   .menu__btn {
     padding-top: clamp(0.5rem, 0.4304347826rem + 0.347826087vw, 0.75rem);
@@ -1229,7 +1231,7 @@ body {
     column-gap: 0.9375rem;
   }
   .menu__logo {
-    font-size: 1.125rem;
+    font-size: 1.05rem;
   }
   .menu__btn {
     padding-top: 0.5rem;
